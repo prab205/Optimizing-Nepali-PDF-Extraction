@@ -1,4 +1,4 @@
----
+## Optimizing Nepali PDF Extraction
   
 **To get the program running**  
 1. Clone the repo  
@@ -16,3 +16,4 @@
 5. You need to extract 'resources/Tesseract-OCR.7z' to run pytesseract  
 6. Run the program  
 `python3 time_measure_PyMUPDF.py`  
+
